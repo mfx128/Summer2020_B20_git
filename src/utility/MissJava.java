@@ -5,5 +5,8 @@ public class MissJava {
 
 
         System.out.println(" Miss java");
+
+        System.out.println(" yea man");
+
     }
 }
